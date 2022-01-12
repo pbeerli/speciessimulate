@@ -1,0 +1,18 @@
+n:2
+N1:2500
+N2:2500
+K1:20
+K2:20
+Divergance Point:
+P1:1
+P2:2
+fn:0.1,0.1
+Migration Matrix:
+M11:0
+M12:0.00
+M21:0.00
+M22:0
+mutation:0.000001
+END:
+
+
